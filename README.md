@@ -7,6 +7,7 @@
 ###
 
 <h3 align="left">👨🏻‍🎓Faço engenharia de software e segurança da informação na uniasselvi</h3>
+<h3 align="left">✨Criando bugs desde 2016</h3>
 
 ###
 
