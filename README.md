@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">👨🏻‍🎓Faço engenharia de software e segurança da informação na uniasselvi</h3>
+
 <h3 align="left">✨Criando bugs desde 2016</h3>
 
 ###
@@ -15,10 +15,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=true&username=brunolemos" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&username=brunolemos" height="150" alt="languages graph"  />
-</div>
+
 
 ###
 
@@ -56,7 +53,9 @@
 ###
 
 <div align="left">
+   <a href="henrique_m40" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
   <a href="henrique_m40" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
